@@ -1,7 +1,6 @@
 # Github Stats
 ![](https://github-readme-stats.vercel.app/api?username=Clxssyy&theme=prussian&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Clxssyy&theme=prussian&hide_border=false)</br>
-## Most Used Languages
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Clxssyy&theme=prussian&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
