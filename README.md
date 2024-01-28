@@ -1,11 +1,7 @@
-# Github Stats
-![](https://github-readme-stats.vercel.app/api?username=Clxssyy&theme=prussian&hide_border=false&include_all_commits=true&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Clxssyy&theme=prussian&hide_border=false)</br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Clxssyy&theme=prussian&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## :wave: Thanks for stopping by!
 
-
----                   
-[![](https://visitcount.itsvg.in/api?id=Clxssyy&icon=5&color=0)](https://visitcount.itsvg.in)
-                                        
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-                                        
+<div align="center">
+  <a href="https://github.com/clxssyy">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Clxssyy&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clxssyy&layout=compact&langs_count=5&theme=github_dark"/>
+</div>
