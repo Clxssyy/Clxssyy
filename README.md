@@ -9,5 +9,4 @@
 ## 🔧 Currently working on
 
 - [FiveM Resources](https://github.com/Clxssyy/classy-fivem) - Various scripts to expand on FiveM / GTAV
-- [Polled](https://github.com/Clxssyy/polled) - A platform that makes creating and sharing polls easy!
 - [Brainstormer](https://github.com/Clxssyy/brainstormer) - Storytelling platform that uses the power of OpenAI and DALL-E to turn random ideas into full stories!
