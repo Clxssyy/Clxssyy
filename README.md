@@ -10,4 +10,3 @@
 
 - [WAAT](https://waat.vercel.app) - Platform for creating, sharing, viewing character builds for the game Warborne Above Ashes.
 - [dMMO](https://github.com/Clxssyy/dMMO) - Discord App that tracks user activity in a MMO format.
-- [Brainstormer](https://github.com/Clxssyy/brainstormer) - Storytelling platform that uses the power of OpenAI and DALL-E to turn random ideas into full stories!
